@@ -1,0 +1,19 @@
+{
+  "name": "angular-example-animate",
+  "version": "1.0.0",
+  "description": "example test",
+  "main": "index.js",
+  "scripts": {
+    "test": "cmd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/delverOne25/angularExample.git"
+  },
+  "keywords": [
+    "example",
+    "angular"
+  ],
+  "author": "delverOne25",
+  "license": "ISC"
+}
